@@ -1,0 +1,16 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  background-color: antiquewhite;
+}
+
+.header h2 {
+  margin: 0;
+}
+
+.header .buttons {
+  display: flex;
+  gap: 10px;
+}
